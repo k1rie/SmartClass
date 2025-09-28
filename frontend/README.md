@@ -1,12 +1,43 @@
-# React + Vite
+# SmartClass - Academic Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🏆 **First Place Winner (State and Local Phases) - DGETI 2025 National Prototype Contest** 🏆
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 [View Live Demo](https://smartclass.alphatech-labs.com/)
 
-## Expanding the ESLint configuration
+SmartClass is an **academic management system** designed to simplify and automate administrative tasks for educators. It enables efficient control of grades, **QR-based attendance tracking**, and automatic average calculations, all within an intuitive web platform.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was developed as part of the DGETI 2025 National Prototype Contest, where it secured first place at the state and local levels, standing out for its innovation and functionality.
+
+---
+
+## ✨ Core Features
+
+* **👥 Group Creation and Management:**
+    * Allows teachers to create and manage multiple student groups or classes.
+    * Easy enrollment and management of student rosters, including importing lists from existing groups.
+* **📲 QR Code Attendance:**
+    * Generates unique, personalized QR codes for each student.
+    * Fast scanning system to log attendance efficiently, eliminating manual roll call.
+* **📊 Grade Management & Reporting:**
+    * Intuitive interface for teachers to record student grades by activity.
+    * **Automated Calculation** of grading averages per student and per group.
+    * Supports **data export** into multiple standardized formats (CSV).
+* **👤 Role-Based Profiles:**
+    * Customized user views for Teachers (full control over class management).
+
+---
+
+## 🛠️ Technology Stack
+
+SmartClass is a Full Stack application built with modern technologies:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `JavaScript`, `HTML5`, `CSS3`, `Shadcn/ui` (for modern components) |
+| **Backend** | `Node.js`, `Express` (for robust API development) |
+| **Database** | `MySQL` (for relational data persistence) |
+| **Deployment** | `Hostgator`, `Koyeb` |
+
+---
