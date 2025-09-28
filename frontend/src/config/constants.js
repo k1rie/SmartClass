@@ -1,0 +1,1 @@
+export const BASE_API_URL = "https://pure-asp-k1rie-8349611b.koyeb.app";  
